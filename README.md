@@ -14,13 +14,14 @@ First clone this repository, install the dependencies, and setup your .env file.
 ```
 git clone git@github.com:Ahmed0789/Blog-Project.git blog
 composer install
+cp .env.example .env
 ```
 
 Then create the necessary database.
 
 ```
 php artisan db
-create database cvdb
+create database laravel
 ```
 
 And run the initial migrations and seeders.
