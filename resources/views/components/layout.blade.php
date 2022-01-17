@@ -36,7 +36,7 @@
     }
 </style>
 
-<body style="font-family: Open Sans, sans-serif">
+<body style="font-family: Open Sans, sans-serif" class="bg-gradient-to-r from-blue-100 to-zinc-800 hover:from-b-500 hover:to-pink-400 ...">
 <section class="px-6 py-8">
     <nav class="md:flex md:justify-between md:items-center">
         <div>
